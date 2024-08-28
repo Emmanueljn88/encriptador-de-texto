@@ -19,5 +19,6 @@ Funcionalidad:
 Funcionalidad 1: Debe funcionar solo con letras minúsculas.
 Funcionalidad 2: No deben emplearse letras con acentos ni caracteres especiales.
 Funcionalidad 3: Debe ser posible encriptar una palabra y devolverla a su versión original.
-Funcionalidad 4: La página debe tener campos para inserción del texto que será encriptado o desencriptado. Al mismo tiempo, el usuario debe poder escoger entre las dos opciones.
+Funcionalidad 4: La página debe tener campos para inserción del texto que será encriptado o desencriptado.
+Al mismo tiempo, el usuario debe poder escoger entre las dos opciones.
 Funcionalidad 5: El resultado debe mostrarse en pantalla.
